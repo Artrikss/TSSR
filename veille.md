@@ -1,9 +1,9 @@
 ## Veille it 
 
 
-### chaine youtube 
+### Chaines youtubes 
 
-1. cocadmin
+1. cocadmin https://www.youtube.com/cocadmin
 
 2. Imo3k  https://www.youtube.com/@imot3k_
 
@@ -16,4 +16,17 @@
 2. ZDNet France  https://www.zdnet.fr/
 
 3. Le monde informatique https://www.lemondeinformatique.fr/
+
+4. Next https://next.ink/
+
+###  magasine physique 
+
+1. L'Informaticien https://www.linformaticien.com/
+
+
+
+
+
+
+
 
