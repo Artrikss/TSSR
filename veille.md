@@ -13,6 +13,8 @@
 
 3. le filtre  https://www.youtube.com/@LEFILTRE
 
+4. Tec2Tech https://www.youtube.com/@Tech2TechFR
+
 ### Actualité it 
 
 ---
@@ -24,6 +26,8 @@
 3. Le monde informatique https://www.lemondeinformatique.fr/
 
 4. Next https://next.ink/
+
+5. tech2tech https://www.tech2tech.fr/
 
 ###  Magasine physique 
 
