@@ -1,7 +1,11 @@
 ## Veille it 
 
+---
+
 
 ### Chaines youtubes 
+
+---
 
 1. cocadmin https://www.youtube.com/cocadmin
 
@@ -9,7 +13,9 @@
 
 3. le filtre  https://www.youtube.com/@LEFILTRE
 
-### actualité it 
+### Actualité it 
+
+---
 
 1. The Hacker News https://thehackernews.com/
 
@@ -19,9 +25,21 @@
 
 4. Next https://next.ink/
 
-###  magasine physique 
+###  Magasine physique 
+
+---
 
 1. L'Informaticien https://www.linformaticien.com/
+2. misc magasine   https://connect.ed-diamond.com/misc 
+
+
+### IA 
+
+---
+
+1.  Actu ia https://www.actuia.com/
+
+2. NeuroActu https://neuroactu.fr/
 
 
 
