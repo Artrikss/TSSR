@@ -4,7 +4,7 @@
 
 ---
 
-une veille it permet de rester informé afin de se tenir au courant de toutes les actualité it (MAJ, Logiciel Failles de securité...)
+une veille it permet de rester informé afin de se tenir au courant de toutes les actualité it (MAJ, Logiciel Failles de sécurité...)
 
 
 ### Chaines youtubes & Podcast 
