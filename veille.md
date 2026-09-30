@@ -51,7 +51,7 @@
 
 1.  Actu ia: https://www.actuia.com/
 
-2. Neroactu: https://neuroactu.fr/
+2. NeuroActu: https://neuroactu.fr/
 
 
 
