@@ -1,6 +1,10 @@
 ## Voici une liste de mes reference pour ma veille IT
 
+### Une veille it c'est quoi ?
+
 ---
+
+une veille it permet de rester informé afin de se tenir au courant de toutes les actualité it (MAJ, Logiciel Failles de securité...)
 
 
 ### Chaines youtubes & Podcast 
