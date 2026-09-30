@@ -15,7 +15,9 @@
 
 4. Tec2Tech https://www.youtube.com/@Tech2TechFR
 
-### Actualité it 
+5. Underscore https://www.youtube.com/@Underscore_
+
+### Actualités it 
 
 ---
 
@@ -37,7 +39,7 @@
 2. misc magasine   https://connect.ed-diamond.com/misc 
 
 
-### IA 
+###  Actualité IA 
 
 ---
 
