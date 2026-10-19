@@ -1,1 +1,56 @@
+# Glossaire IA
 
+- Agent Logiciel autonome capable de percevoir son environnement, de raisonner, de planifier et d'exécuter des actions à l'aide d'outils pour atteindre un objectif précis fixé par un utilisateur
+
+- Algorithme
+- Alignement
+- API
+- Apprentissage
+- Auto-apprentissage
+- Automatisation
+- Autonomie
+- Base de données
+- Bulle IA
+- Capacité
+- CUDA
+- Cyberattaque par IA
+- Danger
+- Distillation
+- Écoute
+- Environnement
+- Frontière (modèle)
+- Génératif
+- Gouvernance
+- GPU
+- Hallucination
+- Harnais
+- HuggingFace
+- Inférence
+- Injection
+- Invasif
+- Limite
+- LLAMA
+- LLM
+- Machine Learning
+- Mathématique
+- Mémoire unifiée
+- NVIDIA
+- OpenClaw
+- OpenRouter
+- Paramètre
+- Poids
+- Pre-trained
+- Prompt
+- RAM (DRAM)
+- RAG
+- Réseau neuronal
+- Robotisation
+- SLOP
+- Singularité technologique
+- Souveraineté
+- Super intelligence
+- Token
+- TPU
+- Transformer
+- Vérification
+- Wikipedia
