@@ -34,7 +34,7 @@
 - CUDA: C'est la technologie qui permet d'utiliser la puissance d'une carte graphique (GPU) pour effectuer des calculs informatiques généraux, et non plus seulement pour afficher des jeux vidéo ou de la 3D. Elle fonctionne exclusivement sur les cartes graphiques NVIDIA.
 
 
-- Cyberattaque par IA c'est une cyberattaque menée par l'ia 
+- Cyberattaque par IA : 
 
 ## D
 ---
@@ -155,4 +155,4 @@
 ## W
 ---
 
-- Wikipedia: Wikipédia est une encyclopédie en ligne, collaborative, universelle et multilingue 
+- Wikipedia: c'est en quelque sorte le carburant de l'ia car c'est une encyclopedie multinligue et universelle
