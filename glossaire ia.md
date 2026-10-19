@@ -2,7 +2,8 @@
 
 - Agent Logiciel autonome capable de percevoir son environnement, de raisonner, de planifier et d'exécuter des actions à l'aide d'outils pour atteindre un objectif précis fixé par un utilisateur
 
-- Algorithme
+- Algorithme  suite finie, ordonnée et non ambiguë d'instructions ou de règles opératoires permettant de résoudre un problème ou d'obtenir un résultat précis
+
 - Alignement
 - API
 - Apprentissage
