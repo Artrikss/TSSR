@@ -45,11 +45,11 @@
 
 - Frontière: (modèle): désigne un modèle de fondation d'intelligence artificielle situé à la pointe absolue des capacités techniques et de l'état de l'art du moment
 
-- Génératif: st une branche de l'intelligence artificielle capable de créer du contenu original (textes, images, musiques, vidéos, codes informatiques)
+- Génératif: est une branche de l'intelligence artificielle capable de créer du contenu original (textes, images, musiques, vidéos, codes informatiques)
 
 - Gouvernance: désigne le cadre structuré — composé de règles éthiques, de politiques juridiques, de structures de pilotage et d'outils techniques — qui encadre la conception, le déploiement et l'utilisation de l'intelligence artificielle.
 
-- GPU: c'est uen carte graphique 
+- GPU: c'est une  carte graphique 
 
 - Hallucination:e phénomène par lequel un modèle d'intelligence artificielle générative produit un résultat factuellement faux, inventé ou incohérent, tout en le présentant avec une assurance et une fluidité parfaites
 
