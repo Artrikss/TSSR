@@ -8,7 +8,7 @@ Une fiche de révision rapide pour les raccourcis clavier Windows les plus utile
 
 | Raccourci | Action |
 | :--- | :--- |
-| `Win | Ouvrir ou fermer le menu Démarrer |
+| Win | Ouvrir ou fermer le menu Démarrer |
 | Win + X | Ouvrir le menu Liens Rapides (Gestionnaire de périphériques, Gestion des disques, Terminal, etc.) |
 | Win + I | Ouvrir les Paramètres Windows |
 | Win + R | Ouvrir la boîte de dialogue **Exécuter** |
@@ -42,22 +42,6 @@ Une fiche de révision rapide pour les raccourcis clavier Windows les plus utile
 | Ctrl + Shift + T | Rouvrir le dernier onglet fermé dans l'Explorateur |
 | Alt + D ou Ctrl + L | Sélectionner la barre d'adresse |
 
----
 
-## Commandes "Exécuter" Utiles (`Win + R`)
 
-| Commande | Cible / Outil |
-| :--- | :--- |
-| appwiz.cpl | Programmes et fonctionnalités (Désinstaller un programme) |
-| ncpa.cpl | Connexions réseau |
-| sysdm.cpl | Propriétés système (Nom de l'ordinateur, variables d'environnement) |
-| compmgmt.msc | Gestion de l'ordinateur (Disques, services, utilisateurs locaux) |
-| devmgmt.msc | Gestionnaire de périphériques |
-| gpedit.msc | Éditeur de stratégie de groupe locale (Windows Pro/Enterprise) |
-| regedit | Éditeur du Registre |
 
----
-
-## Commande "Presse Papier"
-
-| 
