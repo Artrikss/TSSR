@@ -19,7 +19,7 @@ Une fiche de révision rapide pour les raccourcis clavier Windows les plus utile
 
 ---
 
-## 🖥️ Gestion des Fenêtres & Bureaux Virtuels
+## Gestion des Fenêtres & Bureaux Virtuels
 
 | Raccourci | Action |
 | :--- | :--- |
@@ -54,4 +54,5 @@ Une fiche de révision rapide pour les raccourcis clavier Windows les plus utile
 | `compmgmt.msc` | Gestion de l'ordinateur (Disques, services, utilisateurs locaux) |
 | `devmgmt.msc` | Gestionnaire de périphériques |
 | `gpedit.msc` | Éditeur de stratégie de groupe locale (Windows Pro/Enterprise) |
-| `regedit` | Éditeur du Registre |
+| regedit | Éditeur du Registre |
+| 
