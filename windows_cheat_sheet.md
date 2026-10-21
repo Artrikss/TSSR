@@ -48,6 +48,39 @@ Une fiche de révision rapide pour les raccourcis clavier Windows les plus utile
 | `gpedit.msc` | Éditeur de stratégie de groupe locale (Windows Pro/Enterprise) | 
 | `regedit` | Éditeur du Registre | 
 
+---
+
+### Diagnostic Réseau & Sécurité (Invite de commande / PowerShell)
+| Commande | Action / Utilité |
+| :--- | :--- |
+| `ipconfig /all` | Affiche la configuration réseau détaillée (MAC, DHCP, DNS, IP) |
+| `ipconfig /flushdns` | Vide le cache DNS local (utile en cas de problème de résolution de nom) |
+| `ping -t <IP_ou_Nom>` | Envoie des requêtes ICMP en continu pour tester la connectivité |
+| `tracert <IP_ou_Nom>` | Affiche la route et les sauts (routeurs) pour atteindre une cible |
+| `netstat -ano` | Liste toutes les connexions réseau actives avec leurs ports et PID |
+| `nslookup <Domaine>` | Interroge le serveur DNS pour obtenir l'adresse IP d'un domaine |
+| `getmac` | Affiche les adresses physiques (MAC) des cartes réseau |
+
+---
+
+### Outils de Diagnostic & Reparation Système (CMD / PowerShell en Administrateur)
+| Commande | Action / Utilité |
+| :--- | :--- |
+| `sfc /scannow` | Analyse et restaure les fichiers système Windows corrompus |
+| `DISM /Online /Cleanup-Image /RestoreHealth` | Répare l'image de Windows via Windows Update |
+| `chkdsk C: /f /r` | Vérifie et répare les erreurs sur le disque C: (nécessite un redémarrage) |
+| `tasklist` | Liste tous les processus en cours d'exécution avec leur PID |
+| `taskkill /PID <PID> /F` | Force la fermeture d'un processus spécifique par son PID |
+
+---
+
+### Raccourcis Terminal & Invite de commande (CMD / PowerShell)
+| Raccourci | Action |
+| :--- | :--- |
+| `Ctrl + C` | Interrompt la commande en cours d'exécution |
+| `Flèche Haut / Bas` | Navigue dans l'historique des commandes saisies |
+| `Tab` | Autocomplète le nom d'un fichier, dossier ou commande |
+| `cls` (ou `Clear-Host`) | Efface le contenu de l'écran du terminal |
 
 
 
