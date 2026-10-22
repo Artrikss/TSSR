@@ -65,3 +65,47 @@ Lors de l'envoi d'une information :
 1. **Encapsulation (Émission) :** Les données descendent de la couche 7 à la couche 1. À chaque étape, la couche ajoute un en-tête (*header*) — et parfois un pied de page (*trailer*) — contenant des informations de contrôle.
    - **Données** → **Segment** → **Paquet** → **Trame** → **Bits**
 2. **Décapsulation (Réception) :** Le destinataire reçoit les bits en couche 1 et remonte jusqu'à la couche 7 en retirant progressivement les en-têtes à chaque niveau pour restituer le message d'origine.
+
+## 8. Le Modèle TCP/IP
+
+Le modèle TCP/IP (plus simple et plus pragmatique que le modèle OSI) comporte 4 couches principales. Il est la base d'Internet tel qu'on le connaît aujourd'hui.
+
+### Les 4 couches du modèle TCP/IP :
+
+1. **Couche Application** (Correspond aux couches 5, 6 et 7 d'OSI)
+   - **Rôle :** Regroupe les services réseau, la gestion des sessions et le formatage des données pour l'utilisateur.
+   - **Protocoles phares :** HTTP, HTTPS, DNS, FTP, SMTP, DHCP.
+   - **PDU :** Données (Data) / Message.
+
+2. **Couche Transport** (Correspond à la couche 4 d'OSI)
+   - **Rôle :** Assure la communication de bout en bout, le contrôle du flux et la correction des erreurs.
+   - **Protocoles phares :** TCP (fiable, orienté connexion) et UDP (rapide, non orienté connexion).
+   - **PDU :** Segment (pour TCP) ou Datagramme (pour UDP).
+
+3. **Couche Internet** (Correspond à la couche 3 d'OSI - Réseau)
+   - **Rôle :** Permet l'adressage logique des paquets et le routage à travers différents réseaux.
+   - **Protocoles phares :** IP (IPv4 / IPv6), ICMP, ARP.
+   - **PDU :** Paquet (Packet).
+
+4. **Couche Accès Réseau / Liaison** (Correspond aux couches 1 et 2 d'OSI)
+   - **Rôle :** Gère la transmission physique des données sur le support matériel et l'adressage physique (MAC).
+   - **Protocoles phares :** Ethernet, Wi-Fi, PPP.
+   - **PDU :** Trame (Frame) / Bits.
+
+---
+
+## 9. Tableau Comparatif : OSI vs TCP/IP
+
+| Caractéristique | Modèle OSI | Modèle TCP/IP |
+| :--- | :--- | :--- |
+| **Nombre de couches** | 7 couches | 4 couches |
+| **Approche** | Théorique et conceptuelle | Pragmatique et fonctionnelle |
+| **Création** | Conçu avant les protocoles | Conçu après les protocoles (Internet) |
+| **Flexibilité** | Strict sur la séparation des rôles | Plus souple |
+| **Utilisation** | Modèle de référence académique / analyse | Utilisé concrètement par Internet |
+
+### Correspondance directe des couches :
+- **OSI 7, 6, 5** -> **TCP/IP : Application**
+- **OSI 4** -> **TCP/IP : Transport**
+- **OSI 3** -> **TCP/IP : Internet**
+- **OSI 2, 1** -> **TCP/IP : Accès Réseau**
